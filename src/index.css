@@ -27,8 +27,8 @@ th:hover {
 }
 
 .isSorted-increasing::after {
-  content: " ⯅";
+  content: " \2BC5";
 }
 .isSorted-decreasing::after {
-  content: " ⯆";
+  content: " \2BC6";
 }
