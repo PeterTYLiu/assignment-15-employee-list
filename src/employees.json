@@ -1,0 +1,70 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "James Morgan McGill",
+      "position": "attorney",
+      "location": "USA"
+    },
+    {
+      "id": 2,
+      "name": "Kimberly Wexler",
+      "position": "attorney",
+      "location": "USA"
+    },
+    {
+      "id": 3,
+      "name": "Ignacio Varga",
+      "position": "salesperson",
+      "location": "USA"
+    },
+    {
+      "id": 4,
+      "name": "Eduardo Salamanca",
+      "position": "manager",
+      "location": "Mexico"
+    },
+    {
+      "id": 5,
+      "name": "Michael Ehrmantraut",
+      "position": "security consultant",
+      "location": "USA"
+    },
+    {
+      "id": 6,
+      "name": "Gustavo Fring",
+      "position": "manager",
+      "location": "USA"
+    },
+    {
+      "id": 7,
+      "name": "Charles Lindbergh McGill",
+      "position": "attorney",
+      "location": "USA"
+    },
+    {
+      "id": 8,
+      "name": "Alberto Salamanca",
+      "position": "salesperson",
+      "location": "USA"
+    },
+    {
+      "id": 9,
+      "name": "Howard Hamlin",
+      "position": "attorney",
+      "location": "USA"
+    },
+    {
+      "id": 10,
+      "name": "Werner Zeigler",
+      "position": "architect",
+      "location": "Germany"
+    },
+    {
+      "id": 11,
+      "name": "Eladio Vuente",
+      "position": "manager",
+      "location": "Mexico"
+    }
+  ]
+}
